@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esdnwoozyv1
--
+---
 ![GitHubPentester](https://user-images.githubusercontent.com/72991938/140967845-375fd1f3-2d7a-4c93-b090-c4658013a5b7.png)
--
+---
 - 👀 I’m interested in penetration testing...
 - 🌱 I’m currently learning to attack AD and scripting in Python and BASH...
 - 💞️ I’m looking to collaborate on learning scripting...
