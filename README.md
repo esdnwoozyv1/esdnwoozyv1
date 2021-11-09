@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @esdnwoozyv1
----
+- 👋 Hi, I’m @esdnwoozyv1 otherwise known as Woozy
 ![image](https://user-images.githubusercontent.com/72991938/140968546-a9751d56-6e3e-4bb5-ab64-3ec3f618b8c7.png)
 ----
 - 👀 I’m interested in penetration testing and threat hunting...
