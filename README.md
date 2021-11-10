@@ -12,7 +12,9 @@
 
 - 💞️ I’m looking to collaborate on building TryHackMe/HackTheBox rooms, scripting new pentesting tools...
 
-- 📫 How to reach me is through email at jeremiah.parker@esdnsecurity.com...
+- 📫 Email me at jeremiah.parker@esdnsecurity.com...
+
+Connect with me on 
 
 <!---
 esdnwoozyv1/esdnwoozyv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
