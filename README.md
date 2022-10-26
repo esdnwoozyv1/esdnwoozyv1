@@ -15,7 +15,7 @@
 
 - 📫 Email me at jeremiah.parker@esdnsecurity.com...
 
-Connect with me on LinkedIn at **[Jeremiah Parker](https://www.linkedin.com/in/japarker2018/)**
+Connect with me on LinkedIn at **[Woozy](https://www.linkedin.com/in/japarker2018/)**
 
 <!---
 esdnwoozyv1/esdnwoozyv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
